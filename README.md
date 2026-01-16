@@ -1,5 +1,7 @@
 # CSC-289-Capstone
 
+Instructor - A. Norris
+
 This class is about using and understanding patterns in software development. You've already discovered a number of patterns so far:
 
 Input, Processing, Output (IPO)
